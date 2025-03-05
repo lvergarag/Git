@@ -1,1 +1,1 @@
-Agregammos archivo read me a la branch 2
+Agregammos archivo README en la branch 2
