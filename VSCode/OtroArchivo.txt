@@ -1,3 +1,10 @@
 Cambio 3cdfghij
 mas cambios 
+<<<<<<< HEAD
 master
+=======
+=======
+Cambio 3cdf
+>>>>>>> f22c7e425875ec40bb141b0377b2f711bcb8092e
+master
+>>>>>>> e4901356758fb4d4332b68b1b19139ab65cac6a1
