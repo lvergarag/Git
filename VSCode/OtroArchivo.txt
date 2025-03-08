@@ -1,5 +1,10 @@
 Cambio 3cdfghij
 mas cambios 
+<<<<<<< HEAD
 rama_1
 rama_1
+=======
+master
+master
+>>>>>>> ac423b43f711bc77279c8ec21a0f622f5180c87c
 >>>>>>> e4901356758fb4d4332b68b1b19139ab65cac6a1
