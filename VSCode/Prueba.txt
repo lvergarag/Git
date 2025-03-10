@@ -1,12 +1,12 @@
 <<<<<<< HEAD
-prueba 1   prueba  rama 11
-prueba 2   prueba  rama 12
-Prueba 3   prueba  rama 13
-Prueba 4   prueba  rama 14
-Prueba 5   prueba  rama 15
-prueba 6   prueba  rama 16
-prueba 7   prueba  rama 17
-prueba 8   prueba  rama 18
-prueba 9   prueba  rama 19
-prueba 10  prueba  rama 20
+prueba 1   prueba  master 11
+prueba 2   prueba  master 12
+Prueba 3   prueba  master 13
+Prueba 4   prueba  master 14
+Prueba 5   prueba  master 15
+prueba 6   prueba  master 16
+prueba 7   prueba  master 17
+prueba 8   prueba  master 18
+prueba 9   prueba  master 19
+prueba 10  prueba  master 20
 
