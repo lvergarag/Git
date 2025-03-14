@@ -1,7 +1,7 @@
 name: Hola Mundo
 on: 
  push:
-   branches: ["main"]
+   branches: ["master"]
 
 jobs: 
  hola_mundo:
